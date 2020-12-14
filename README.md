@@ -11,9 +11,9 @@ Outcomes:
 4. Team Standards
 
 A few assumptions that I made when creating this schedule:
- - A brand new team will be working on this (the Raft team has never worked with this client before), they will remote to each other, spread across multiple time zones
+ - The Raft team has not worked with this client before, the team will be remote to each other, spread across multiple time zones
  - "Everyone" refers to client team (PO, Stakeholders) and all 7 Raft team members
- -- I know not all conversations will feel relevant to everyone all the time, but I feel it's worth the investment of the whole team in week one to establish a strong foundation for the project
+ -- I know not all conversations will feel relevant to everyone all the time, but I feel it's worth the investment of the whole team in week one to establish a strong foundation for the project by participating in everything
  - Since I don't know exactly how the product vision and roadmap were shared, I have included a review of those in my agenda to ensure it's covered in a way that allows for Q&A with the client
  - The client team is familiar with agile concepts and has worked with a team like ours previously and the product owner (PO) has experience in this role
  - Phase 1 is a medium/large effort, spanning around 3-5 months
@@ -39,23 +39,27 @@ Time: 2-3 hours
 Attendees: Everyone
 Outcome: a list of what the client wants included in phase 1, their priorities of those features and any firm dates the team needs to deliver to
 
-Remainder of the day will be breaks (this is a big day and requires a lot of focus, so it's best to build in big breaks for people to recharge). We'll also start breaking down work into features if there's a lot of time left in the day 
+This day will include several longer breaks. This is a big day and requires a lot of focus, so it's best to build in big breaks for people to recharge. We'll also start breaking down work into features if there's a lot of time left in the day 
+
+===================================
 
 Tuesday, Week 1:
-1. Breakdown scope into epics, led by PO, me, UX Researcher
+1. Breakdown scope into features, led by PO, me, UX Researcher
 
 Time: As long as it takes (guessing around 4 hours)
 Attendees: PO, Raft team
-Outcome: a list of sized (XS, S, M, L, XL) epics needed to complete desired scope for phase 1
+Outcome: a list of sized (XS, S, M, L, XL) features needed to complete desired scope for phase 1
 
-2. Breakdown epics into stories, led by tech lead, me, PO
+2. Breakdown features into stories, led by tech lead, me, PO
 
 Time: As long as it takes, guessing the rest of Tuesday and part of Wednesday
 Attendees: PO, Raft Team
 Outcome: each feature has sized stories broken down with a rough priority associated to each
 
+===================================
+
 Wednesday, Week 1:
-1. Breakdown epics into stories (continued, if needed)
+1. Breakdown features into stories (continued, if needed)
 
 Time: Guessing around 1-2 hours, check in on progress every 45 min or so
 Attendees: PO, Raft team
@@ -79,6 +83,8 @@ Time: 60-90 min
 Attendees: PO, Raft team
 Outcome: get to know each other
 
+===================================
+
 Thursday, Week 1:
 1. Summarize days 1-3, outstanding questions get answered
 
@@ -99,6 +105,8 @@ Attendees: PO, Raft Team
 Outcomes: a list of potential risks the team sees as impacting our ability to deliver on time
 
 Remainder of the day will be work time for anyone's action items or prepping for Friday
+
+===================================
 
 Friday, Week 1:
 1. App Architecture & set up, led by Tech Lead
@@ -132,6 +140,8 @@ Time: remainder of the day
 Attendees: PO, Raft Team
 Outcome: stories move on the board
 
+===================================
+
 Tuesday, Week 2:
 1. Stand up
 
@@ -141,6 +151,8 @@ Outcome: everyone shares what they accomplished yesterday, what they will work o
 
 2. Work time
 People can work on their spikes, set ups, documentation, etc.
+
+===================================
 
 Wednesday, Week 2:
 1. Stand up
@@ -162,6 +174,8 @@ Outcome: review architectural diagram, release calendar/milestones, value story,
 Time: 60-90 min
 Attendees: PO, Raft Team
 Outcome: everyone gets to know each other (will probably include a game or two)
+
+===================================
 
 Thursday, week 2:
 1. Stand up
@@ -188,6 +202,8 @@ Time: 30 min
 Attendees: PO, Raft team
 Outcome: a review of sprint 0 - what did we like, what would we change
 
+===================================
+
 Friday, Week 2:
 1. Stand up
 
@@ -199,6 +215,12 @@ Outcome: everyone shares what they accomplished yesterday, what they will work o
 
 3. Start Sprint 1 with whatever time is left. 
 
+
+++++++++++++++++++++++++++++++++++++
+Notes:
+ - I know this is heavy, but I feel like it's better to propose this and trim it down once I have more information than to assume less is needed and the team feeling confused or like the sprint was a waste of time
+ - I believe the most successful teams come from relationship building; it's really important to me that the group has time to get to know each other, being remote adds levels of challenge to that, which is why there is designated time set aside to make sure it gets done. 
+ - Happy teams equal productive teams, I will do my best to inject fun, levity and transparent environment while ensuring we're getting shit done, because that's what really matters. 
 
 
 
